@@ -8,8 +8,10 @@ function uppg3() {
     // skriv ut summan av a och b i konsolen
 
 
-
 }
-
+let nummer1 = 10
+let nummer2 = 20
+let sum = nummer1 + nummer2;
+console.log(nummer1 + " + " + nummer2, " = " + sum)
 
 module.exports = { uppg3 };

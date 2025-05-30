@@ -7,5 +7,15 @@ function uppg5() {
 
 
 }
-
+let number1 = 40;
+let number2 = 25
+    if (number1 > number2) {
+        console.log("Det första talet är större än det andra");
+    } else if 
+    (number1 < number2) {
+        console.log("Det andra talet är större än det första");
+    }
+    else {
+        console.log("Talen är lika stora");
+    }
 module.exports = { uppg5 };

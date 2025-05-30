@@ -8,5 +8,10 @@ function uppg4() {
 
 
 }
+let person = {
+    age: 38,
+    name: "Oskar"
+}
+console.log(person.age)
 
 module.exports = { uppg4 };
